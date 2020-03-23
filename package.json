@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-promise-all",
+  "version": "1.0.0",
+  "description": "Ejemplo sencillo de Promise.all",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/concu-unahur/nodejs-promise-all.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Federico Aloi <federico.aloi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
